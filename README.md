@@ -8,6 +8,9 @@
  
  (2) nav태그를 사용하여 a와href를 이용해 section으로 빠르게 이동할 수 있게 해주었다.
  
- (3) footer와 &copy를 이용해 사이트를 만들면서 이용한 책의 이름을 적음.
+ (3) footer와 &copy를 이용해 자기소개 웹 페이지를 만들면서 이용한 책의 이름을 적음.
  
-![html자기소개](https://user-images.githubusercontent.com/93521099/159749788-1c3edaec-d80f-45fd-a2a0-f9731b9b9ced.png)
+ ![html코드](https://user-images.githubusercontent.com/93521099/159751859-fc759e35-6036-4445-a12e-e746032aff0c.png)
+
+ ## 웹 페이지
+![html자기소개](https://user-images.githubusercontent.com/93521099/159751565-46b369c2-e907-4f8c-af1f-f6112c36f46f.png)

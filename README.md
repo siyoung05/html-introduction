@@ -12,6 +12,6 @@
  
  ![html코드](https://user-images.githubusercontent.com/93521099/159752528-4b3148c8-1341-4d85-a381-63dd59d09181.png)
 
- ## 웹 페이지 
+ ## 웹 페이지 모습
 
 ![html자기소개](https://user-images.githubusercontent.com/93521099/159752544-195337f0-974d-4bbb-8cf4-3eb4a6ef4126.png)

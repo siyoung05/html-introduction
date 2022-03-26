@@ -5,6 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>html연습 자기소개서</title>
+    <style>
+        header,footer{
+            background-color: burlywood;
+            color: white;
+            text-align: center;
+        }
+        nav{
+            background-color: rgba(0, 0, 255, 0.2);
+            padding: 15px;
+            text-align: center;
+        }
+        h2{
+            padding: 10px;
+            border: solid;
+            border-width: 2px 2px 2px 10px;
+        }
+        .c1 {
+            border-color: tomato;
+        }
+        p {
+            padding : 10px;
+        }
+        #p1 {
+            color: green;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -12,14 +38,14 @@
     </header>
 
     <nav> <!--하이퍼링크를 한 곳에 모아둘 수 있도록 해줌-->
-        <a href="s1" [개인정보]></a> &nbsp;&nbsp; 
-        <a href="s2" [학력사항]></a> &nbsp;&nbsp;
-        <a href="s3" [자격사항]></a> &nbsp;&nbsp;
-        <a href="s4" [자기소개]></a> &nbsp;&nbsp;
+        <a href="#s1"> [개인정보]</a> &nbsp;&nbsp; 
+        <a href="#s2"> [학력사항]</a> &nbsp;&nbsp;
+        <a href="#s3"> [자격사항]</a> &nbsp;&nbsp;
+        <a href="#s4"> [자기소개]</a> &nbsp;&nbsp;
     </nav>
 
     <section id="s1"> <!--section을 만들어 간단한 소개를 함-->
-        <h1>개인정보</h1>
+        <h2 class="c1">개인정보</h2>
         <img src="" alt="본인사진">
         <ul> <!--순서가 없는 목록태그로 아이템은 <li>로 표시해줌 -->
             <li>문시영</li>
@@ -30,7 +56,7 @@
     </section>
 
     <section id="s2">
-        <h1>학력사항</h1>
+        <h2 class="c1">학력사항</h2>
         <ul> <!--순서가 없는 목록태그로 아이템은 <li>로 표시해줌 -->
             <li>성일정보고등학교 재학</li>
             <li>성일중학교 졸업</li>
@@ -39,7 +65,7 @@
     </section>
 
     <section id="s3">
-        <h1>자격사항</h1>
+        <h2 class="c1">자격사항</h2>
 
         <ul> <!--순서가 없는 목록태그로 아이템은 <li>로 표시해줌 -->
             <li>ITQ마스터</li>
@@ -50,7 +76,7 @@
     </section>
 
     <section id="s4">
-        <h1>자기소개</h1>
+        <h2 class="c1">자기소개</h2>
         <p>웹 프로그래밍 쪽으로 공부를 하고 있는 학생입니다.</p>
     </section>
 

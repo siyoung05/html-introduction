@@ -13,9 +13,10 @@
  ![css부분](https://user-images.githubusercontent.com/93521099/160247015-04facdea-1c39-4946-82d2-64c95c651bb7.png)
 
  ### 코드 부분
-![코드부분](https://user-images.githubusercontent.com/93521099/160247012-c525acfa-a760-4ac1-a805-df2938f8433c.png)
+![코드부분](https://user-images.githubusercontent.com/93521099/160247260-1951b8f0-0119-415d-8855-c0dcb55dda21.png)
 
  ## 웹 페이지 모습
-![페이지 화면](https://user-images.githubusercontent.com/93521099/160247023-d57d3dbc-7013-4971-b79c-4a428d89ade2.png)
+![페이지 화면](https://user-images.githubusercontent.com/93521099/160247154-44e6bd05-4d11-4329-8200-96a7ed6d203f.png)
+
 
 
